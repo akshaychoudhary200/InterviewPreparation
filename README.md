@@ -7,6 +7,7 @@ To the contributors
 3. Please use simple plain english to explain ( avoid using dothraki !!!!!!!! )
 4. If you have different solution to same problem and you can explain way better than the previously added, save like this NAMEOFPROBLEM_SOLUTION_X
    where X = 1,2,3.......
+   
    AS ALBERT EINSTEIN SAID... If you cant explain to Six year old you didnt understand well enough !
 
 This repo consists of
