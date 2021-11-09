@@ -1,7 +1,18 @@
-# InterviewPreparation
+InterviewPreparation
 
-This repo consists of Algorithms,DataStructures,Solved Problems of leetcode,binarysearch,hackerrank and many more
-with detailed explaination of solved problems.
+!!!!!!!!!! ATTENTION !!!!!!!!!!!!
+To the contributors
+1. Solution to the problems should be provided with detailed explainations (not everyone is sherlock who can decode ;)
+2. Problems should be tagged according to difficulty,underlying concepts
+3. Please use simple plain english to explain ( avoid using dothraki !!!!!!!! )
+   AS ALBERT EINSTEIN SAID... If you cant explain to Six year old you didnt understand well enough !
+
+This repo consists of
+1. Algorithms & DataStructures
+2. Solved Problems of leetcode,binarysearch,hackerrank and contests
+3. Problems structured and curated based on concepts
+4. Problems and their solutions of CTCI,EPI will also be added
+5. Detailed explaination of solved problems
 
 Database,Operating Systems,Computer Networks will be added later.
 
