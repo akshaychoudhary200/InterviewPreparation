@@ -3,7 +3,7 @@
 #!!!!!!!!!! ATTENTION !!!!!!!!!!!!
 To the contributors
 1. Solution to the problems should be provided with detailed explainations (not everyone is sherlock who can decode ;)
-2. Problems should be tagged according to difficulty,underlying concepts
+2. Problems should be tagged according to difficulty,underlying concepts and in their respective folders
 3. Please use simple plain english to explain ( avoid using dothraki !!!!!!!! )
 4. If you have different solution to same problem and you can explain way better than the previously added, save like this NAMEOFPROBLEM_SOLUTION_X
    where X = 1,2,3.......
